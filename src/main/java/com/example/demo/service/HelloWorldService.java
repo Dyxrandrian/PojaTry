@@ -1,13 +1,9 @@
 package com.example.demo.service;
-
 import static java.io.File.createTempFile;
-
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.Duration;
-
 import com.example.demo.file.bucket.BucketComponent;
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
